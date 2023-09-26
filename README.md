@@ -2,7 +2,7 @@
 
 
 #### Requirements
--   ```PHP 7.4.26```
+-   ```PHP 8 and above```
 
 
 #### rename .env file
